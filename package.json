@@ -1,0 +1,16 @@
+{
+  "name": "img-batch-resizer",
+  "version": "1.0.0",
+  "description": "A node.js script to resize an image collection using the sharp library",
+  "main": "app.js",
+  "scripts": {
+    "resize": "node app.js",
+    "resize-alt": "node app_save.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sharp": "^0.33.5"
+  }
+}
